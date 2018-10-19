@@ -1,6 +1,6 @@
 # ScorecounterApp
 Second App in Udacity's Android Basics Course .This app calculates the score of two basketball teams.
-
+Made using udacity coursework material. Udacity, Inc. is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses (MOOCs).
 
 
  <img src="https://user-images.githubusercontent.com/29801319/44300829-d3132000-a32a-11e8-9548-5ee4c6974bc0.png" width="200" height="400" align="left"/>
